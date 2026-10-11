@@ -9,11 +9,8 @@ This profile is where I share my projects, experiments, and things I'm learning 
 Tools & Tech
 
 - Swift, SwiftUI, UIKit
-
 - SwiftData, CoreLocation, REST APIs
-
 - Xcode, Git, GitHub
-
 - XCTest, MVVM
 
 A Bit About Me
