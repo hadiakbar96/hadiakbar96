@@ -1,16 +1,25 @@
-## Hi there 👋
+Hey there!
 
-<!--
-**hadiakbar96/hadiakbar96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hadi, a Computer Science graduate transitioning into iOS Development, with 3+ years of experience in application support.
 
-Here are some ideas to get you started:
+I'm currently focused on building native iOS applications using Swift and SwiftUI, exploring Apple's ecosystem, and improving my software engineering skills through hands-on projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This profile is where I share my projects, experiments, and things I'm learning along the way.
+
+Tools & Tech
+
+Swift, SwiftUI, UIKit
+
+SwiftData, CoreLocation, REST APIs
+
+Xcode, Git, GitHub
+
+XCTest, MVVM
+
+A Bit About Me
+
+📱 Passionate about building iOS applications
+💻 Former Application Support Engineer
+🎮 Interested in game development and interactive experiences
+🧩 I enjoy solving problems and learning by building things
+🚀 Always exploring new ideas and improving my craft
