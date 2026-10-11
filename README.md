@@ -8,18 +8,18 @@ This profile is where I share my projects, experiments, and things I'm learning 
 
 Tools & Tech
 
-Swift, SwiftUI, UIKit
+- Swift, SwiftUI, UIKit
 
-SwiftData, CoreLocation, REST APIs
+- SwiftData, CoreLocation, REST APIs
 
-Xcode, Git, GitHub
+- Xcode, Git, GitHub
 
-XCTest, MVVM
+- XCTest, MVVM
 
 A Bit About Me
 
-📱 Passionate about building iOS applications
-💻 Former Application Support Engineer
-🎮 Interested in game development and interactive experiences
-🧩 I enjoy solving problems and learning by building things
-🚀 Always exploring new ideas and improving my craft
+- 📱 Passionate about building iOS applications
+- 💻 Former Application Support Engineer
+- 🎮 Interested in game development and interactive experiences
+- 🧩 I enjoy solving problems and learning by building things
+- 🚀 Always exploring new ideas and improving my craft
